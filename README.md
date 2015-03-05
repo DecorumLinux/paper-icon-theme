@@ -14,7 +14,7 @@ If you like the theme you can [buy me a coffee](https://www.paypal.com/cgi-bin/w
 
 ###Getting Paper
 
-The Paper icons can be downloaded [here](https://github.com/snwh/paper-icon-theme/archive/master.zip).
+The Paper icons can be downloaded [here](https://github.com/DecorumLinux/paper-icon-theme/archive/master.zip).
 
 ###Installing Paper
 
